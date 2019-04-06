@@ -1,11 +1,11 @@
 # Machine_Learning-Part-1-Regression-Models
 Contains Regression Model Algorithms in Python
 
-#Installation
+# Installation
 
 Install the package [Spyder](https://docs.spyder-ide.org/installation.html) to work with Python.
 
-##Running the code
+## Running the code
 
 ```
 Step:1 Launch Spyder
